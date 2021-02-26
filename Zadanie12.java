@@ -21,10 +21,10 @@ public class Zadanie12 {
         for (int L = 0; L < Rozmiar; L++)
         
         {
-            System.out.println("Tutaj wpisz liczbe ["+L+"]");
+            System.out.println("Tutaj wpisz liczbe "+L+" ");
             
             
-            tab1[i] = scanner.nextInt();
+            tab1[L] = scanner.nextInt();
         }
         
         for (double T : tab1)
