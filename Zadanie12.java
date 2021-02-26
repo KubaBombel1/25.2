@@ -18,23 +18,23 @@ public class Zadanie12 {
         
         double[] tab1 = new double[Rozmiar];
         
-        for (int i = 0; i < Rozmiar; i++)
+        for (int L = 0; L < Rozmiar; L++)
         
         {
-            System.out.println("Tutaj wpisz liczbe ["+i+"]");
+            System.out.println("Tutaj wpisz liczbe ["+L+"]");
             
             
             tab1[i] = scanner.nextInt();
         }
         
-        for (double x : tab1)
+        for (double T : tab1)
         {   
         
         
         {
             
                     
-            System.out.println(x);
+            System.out.println(T);
             
         }
     } System.out.println("Wypisane liczby koniec");
