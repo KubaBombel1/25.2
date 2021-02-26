@@ -20,15 +20,15 @@ public class Zadanie3
         Rozmiar = scannner.nextInt();
         
         
-        double[] tab1 = new int[Rozmiar];
+        int[] tab1 = new int[Rozmiar];
         
         
         
-   double[] tab2 = new int[Rozmiar];
+   int[] tab2 = new int[Rozmiar];
         
         
         
-                 double[] tab3 = new int[Rozmiar];
+                 int[] tab3 = new int[Rozmiar];
         
         
 
